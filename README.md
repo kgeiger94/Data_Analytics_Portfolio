@@ -11,5 +11,3 @@ This repository contains projects using various analytical tools like:
 These tools are utilized to showcase my analytical skillsets in Python (Statistical Programming), Machine Learning, SQL, Excel (Functions, Pivots, Advanced Analysis), Data Visualization, Presentation and Critical Thinking.
 
 *Note: Data used for projects are retrieved from various sources and are for demenstration purposes only*
-
-## Contents
