@@ -7,8 +7,6 @@ This repository contains projects using various analytical tools like:
 -	SQL
 -	Excel
 -	Power BI
--	Tableau
--	PowerPoint
 
 These tools are utilized to showcase my analytical skillsets in Python (Statistical Programming), Machine Learning, SQL, Excel (Functions, Pivots, Advanced Analysis), Data Visualization, Presentation and Critical Thinking.
 
