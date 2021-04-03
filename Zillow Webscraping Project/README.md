@@ -1,6 +1,6 @@
 # Zillow Web Scraping Project
 
-This folder contains a web scraping project that utilizes Beautiful Soup in Python. The purpose of this project was to collect housing data for every state in the United States. There were between 400-600 house listings scraped for each state. After all lsitings were scraped and appended together in a master dataset the final count was over 26,000 listings.
+This folder contains a web scraping project that utilizes Beautiful Soup in Python. The purpose of this project was to collect housing data for every state in the United States. There were between 400-600 house listings scraped for each state. After all listings were scraped and appended together in a master dataset the final count was over 26,000 listings.
 
 ### For data collection, I scraped and collected:
 - House Prices
@@ -19,11 +19,11 @@ This folder contains a web scraping project that utilizes Beautiful Soup in Pyth
 - Part Three: Exploratory Data Analysis of Zillow house listings from all 50 states
 - Part Four: Build a dynamic BI dashboard to search house listings and analyze housing data in all 50 states
 
-### ** Note:
+### *** Note:
 
-Depending on the time of dashboard use, some listings may not appear or appear inaccurate. These listings were scraped at the same time and listings/prices may have changed or been removed. If this was going to be a live production project and be used on a consistant bases, I would create a pipeline that automated the scraping process on a daily bases and etl the data into a production style database. Then create a live connection from Power BI to the datasource of housing data to keep a live updated dashboard with refreshed Zillow listings.
+Depending on the time of dashboard use, some listings may not appear or appear inaccurate. These listings were scraped at the same time and listings/prices may have changed or been removed. If this was going to be a live production project and be used on a consistent basis, I would create a pipeline that automated the scraping process on a daily basis and ETL the data into a production style database. Then create a live connection from Power BI to the data source of housing data to keep a live updated dashboard with refreshed Zillow listings.
 
-The overall averages and prices in the final Python notebooks and dashboard do not 100% reflect the actual statistics of housing data in the United States. Due to time constraint, between 400-600 house listings per state were in the final dataset after data cleaning/processing and becuase of the limited data compared to the overall number of listings, appeared to skew the results a little. However, in the final results and averages state by state, the results align with other reputable sources of house statistics. Here are the most and least expensive states according to BusinessInsider.com compared to this projects final results:
+The overall averages and prices in the final Python notebooks and dashboard do not 100% reflect the actual statistics of housing data in the United States. Due to time constraint, between 400-600 house listings per state were in the final dataset after data cleaning/processing and because of the limited data compared to the overall number of listings, appeared to skew the results a little. However, in the final results and averages state by state, the results align with other reputable sources of house statistics. Here are the most and least expensive states according to BusinessInsider.com compared to this projects final results:
 
 ##### Business Insider top 10 most expensive states
 1. Hawaii
@@ -52,7 +52,7 @@ The overall averages and prices in the final Python notebooks and dashboard do n
 ### 7/10
 
 ##### Business Insider top 10 least expensive states
-1. West Virgina
+1. West Virginia
 2. Arkansas
 3. Ohio
 4. Iowa
