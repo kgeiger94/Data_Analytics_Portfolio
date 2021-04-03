@@ -26,16 +26,53 @@ Depending on the time of dashboard use, some listings may not appear or appear i
 The overall averages and prices in the final Python notebooks and dashboard do not 100% reflect the actual statistics of housing data in the United States. Due to time constraint, between 400-600 house listings per state were in the final dataset after data cleaning/processing and becuase of the limited data compared to the overall number of listings, appeared to skew the results a little. However, in the final results and averages state by state, the results align with other reputable sources of house statistics. Here are the most and least expensive states according to BusinessInsider.com compared to this projects final results:
 
 ##### Business Insider top 10 most expensive states
-Hawaii
-Washington DC
-California
-Massachusetts
-Colorado
-Washington
-New York
-Oregon
-Utah
-New Jersey
+1. Hawaii
+2. Washington DC
+3. California
+4. Massachusetts
+5. Colorado
+6. Washington
+7. New York
+8. Oregon
+9. Utah
+10. New Jersey
 
 ##### Scraped data top 10 most expensive states
+1. California
+2. Hawaii
+3. Washington DC
+4. Colorado
+5. New York
+6. Idaho
+7. Utah
+8. New Hampshire
+9. Rhode Island
+10. Massachusetts
 
+### 7/10
+
+##### Business Insider top 10 least expensive states
+1. West Virgina
+2. Arkansas
+3. Ohio
+4. Iowa
+5. Mississippi
+6. Michigan
+7. Oklahoma
+8. Missouri
+9. Indiana
+10. Kentucky
+
+##### Scraped data top 10 least expensive states
+1. Oklahoma
+2. West Virginia
+3. Kentucky
+4. Iowa
+5. Indiana
+6. Kansas
+7. Mississippi
+8. Missouri
+9. Ohio
+10. Arkansas
+
+### 9/10
